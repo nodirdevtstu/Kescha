@@ -1,0 +1,2 @@
+# Kescha
+Birinchi dasturim
